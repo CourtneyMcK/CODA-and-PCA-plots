@@ -1,5 +1,5 @@
 # CoDA-and-PCA-plots
-Compositional Data Analysis (CoDA) of 16S rRNA amplicon data and PCA plotting (biplot and individuals) uisng the package factoextra. R Markdown file was produced using a modified code listed in the tutorial by [Gloor (2016)](https://utoronto.scholaris.ca/server/api/core/bitstreams/3e157769-5e22-40c7-bb72-12e984afc242/content)for CoDA. Principal Coordinate Analysis (PCA) was ran using [factoextra tutorial (ver.2.2.0.9000)](https://rpkgs.datanovia.com/factoextra/). 
+Compositional Data Analysis (CoDA) of 16S rRNA amplicon data and PCA plotting (biplot and individuals) uisng the package factoextra. R Markdown file was produced using a modified code listed in the tutorial by [Gloor (2016) ](https://utoronto.scholaris.ca/server/api/core/bitstreams/3e157769-5e22-40c7-bb72-12e984afc242/content)for CoDA. Principal Coordinate Analysis (PCA) was ran using [factoextra tutorial (ver.2.2.0.9000)](https://rpkgs.datanovia.com/factoextra/). 
 
 # Installation
 Note: R version 4.5.1 and R Studio version 2025.09.0 were used to create and run the R Markdown file. To be able to certain download packages from the listed Bioconductor version, it requires R version 4.5 or greater.
